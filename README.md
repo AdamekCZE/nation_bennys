@@ -1,4 +1,4 @@
-# nation_bennys
+# nation_autoexotic
 - FIVEM Mechanic Menu
 - to Translate using your language, go to script.js and replace each words.
 ![alt text](https://i.imgur.com/wpr9IVh.png)
