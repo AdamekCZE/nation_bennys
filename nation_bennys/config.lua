@@ -314,10 +314,10 @@ config.locais = {
 	[6] = vec3(957.14,-980.95,39.58)
 }
 config.societymoney = true
-config.society_name = 'society_mechanic' -- will work only if mechaniconly is false
+config.society_name = 'society_autoexotic' -- will work only if mechaniconly is false
 
-config.mechaniconly = false -- if false other player/job can use the upgrade menu.
-config.permissao = 	"mechanic"
+config.mechaniconly = true -- if false other player/job can use the upgrade menu.
+config.permissao = 	"autoexotic"
 
 config.use_vehlist = true
 
